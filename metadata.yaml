@@ -1,0 +1,30 @@
+_repo: R-ckreise-von-Java-nach-Europa-mit-der-sogenannten-englischen--berlandpost-im-September-und-O__45393
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45393-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Junghuhn, Franz Wilhelm
+    alias: Junghuhn, F. W.
+    birthdate: 1809
+    deathdate: 1864
+    gutenberg_agent_id: '43257'
+    url: http://www.gutenberg.org/2009/agents/43257
+    wikipedia: http://de.wikipedia.org/wiki/Franz_Wilhelm_Junghuhn
+description: ''
+gutenberg_issued: '2014-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45393'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Java (Indonesia) -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Voyages and travels'
+title: Rückreise von Java nach Europa mit der sogenannten englischen Überlandpost
+  im September und October 1848
+url: http://www.gutenberg.org/ebooks/45393
